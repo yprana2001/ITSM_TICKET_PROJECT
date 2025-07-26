@@ -1,4 +1,3 @@
-# ITSM_TICKET
 # 📊 ITSM Analytics & Incident Prediction – Client Project
 
 This project involves applying **Machine Learning** and **Time Series Forecasting** techniques to enhance **incident management** in an ITSM (IT Service Management) environment. The objective is to improve operational efficiency, proactive resolution, and reduce manual triage time for a real client.
