@@ -31,8 +31,3 @@ Analyzed historical RFCs and asset configuration data from SQL to predict **RFC 
 - **Forecasting**: Facebook Prophet, Auto ARIMA (pmdarima)
 - **Model Evaluation**: Accuracy, F1-Score, ROC-AUC, MAE, RMSE
 - **Data Source**: Extracted from **SQL Server** using authorized read-only queries
-
----
-
-## 🗂️ Project Structure
-
